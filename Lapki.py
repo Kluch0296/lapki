@@ -14,8 +14,8 @@ import openpyxl
 import os
 from apscheduler.schedulers.background import BackgroundScheduler
 
-
-token="5134243800:AAExzuhW0EszEQMsAmdDTxaMDt8HnR7lhdE"
+with open('token.txt', 'r') as tokenfile:
+    token = tokenfile.read()
 
 
 with open('subs.txt', encoding='utf-8') as f: 
