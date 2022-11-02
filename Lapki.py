@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import pyTelegramBotAPI
-from pyTelegramBotAPI import types
+import telebot
+from telebot import types
 import ast
 import requests
 import json
