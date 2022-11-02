@@ -1,0 +1,1 @@
+python Lapki.py

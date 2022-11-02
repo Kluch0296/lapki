@@ -1,0 +1,11 @@
+telebot
+ast
+requests
+json
+time
+random
+pandas as pd
+math
+openpyxl
+os
+BackgroundScheduler
